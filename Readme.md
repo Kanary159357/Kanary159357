@@ -6,8 +6,7 @@
 
 * 철권 위키피디아를 향해~ Tekken_react
 * 심플한 마크다운 메모장 Conote
-* 내일로 그만 미루자 TodoChromeEx
-
+* 깔끔한 깃헙 블로그 Github-blog
 
 
 ## Studying :hibiscus:
