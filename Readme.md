@@ -1,6 +1,5 @@
 # Who am I? :boom:
 
-고려대학교 컴퓨터학과 재학중 (2019~)
 
 ## Working on :milky_way:
 
